@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: eulerwangalpha/podinfo
-      tag: dev-awyrmeiw
+      tag: dev-kb9lm91e
     replicaCount: 1
     hpa:
       enabled: false
