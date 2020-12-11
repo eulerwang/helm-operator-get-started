@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: eulerwangalpha/podinfo
-      tag: stg-db9cqert
+      tag: stg-elrzrhw2
     replicaCount: 2
     hpa:
       enabled: true
