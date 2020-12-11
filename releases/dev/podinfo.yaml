@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: eulerwangalpha/podinfo
-      tag: dev-awyrmeiw
+      tag: dev-pmzzyfoc
     replicaCount: 1
     hpa:
       enabled: false
